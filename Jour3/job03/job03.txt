@@ -1,0 +1,1 @@
+db.product.insert({name: "chaussure", description: "une paire de chaussures", price: 35, quantity: 120})

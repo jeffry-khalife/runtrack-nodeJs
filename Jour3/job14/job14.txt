@@ -1,0 +1,1 @@
+db.category.find(ObjectId('685285c96bab8820f6937e33'))

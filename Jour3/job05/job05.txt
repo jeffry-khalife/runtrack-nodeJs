@@ -1,0 +1,12 @@
+db.category.insertMany([  
+  {
+    name: "Eau",
+
+  },
+  {
+    name: "Feu",
+  },
+  {
+    name: "Electrique",
+  }
+])
